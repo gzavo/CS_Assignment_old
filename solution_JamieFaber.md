@@ -8,5 +8,5 @@ forces required to drag sheep over various surfaces.
 * DW Ziegler et al., 2005: The neurocognitive effects of alcohol on adolescents and college students.
 
 ## Plot:
-<img src="plot.png" alt="plot" width="500" height="250" />
+<img src="plot.png" alt="plot" width="750" height="600" />
 The amount of university students (WO x1000) increases steadily each year, whereas the amount of beer being drunk by the students (NL Beer consumption [x1000 hectoliter]) at the starts plateaus. However around 2015, when the new student loan system was introduced the beer consumption heavily increases. 
