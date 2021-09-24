@@ -4,4 +4,4 @@
 
 ![image](istherecorrelation.jpg)
 
-<p></p>
+<p>This plot visualizes the relation between the amount of students (WO = wetenschappelijk onderwijs?) and the beer consumption in the netherlands.  Up until</p>
