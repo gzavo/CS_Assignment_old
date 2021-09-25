@@ -15,7 +15,7 @@ with open('./istherecorrelation.csv','r',newline='') as csvfile:
 	for beer in beers:
 		ax.barh(beer[0],float(beer[2])/float(beer[1].replace(',','.')))
     
-	ax.set_xlabel('Percentile consumtion')
+	ax.set_xlabel('Hectoliters per person per year')
 	ax.set_ylabel('Years')
 	plt.savefig('beer-plot.png', dpi=300)
 	plt.show()
