@@ -6,7 +6,7 @@
 
 - Results
   - ![The Beer People](/plot.jpg)
-  - The scatter plot depicts the WO students and their consumed hectolitres of beer the years 2006-2018 in the Netherlands. The bar chart shows the hectolitres consumed per person per year the same country and time. What we can see a slight decrease throughout the years of hectolitres consumed per person, despite the increasing number of WO students.
+  - The scatter plot depicts the WO students and their consumed hectolitres of beer the years 2006-2018 in the Netherlands. The bar chart shows the hectolitres consumed per person per year in the same country and time. What we can see is a slight decrease throughout the years of hectolitres consumed per person, despite the increasing number of WO students.
   
 - Student info:
   - Full name: Markos Galikas
