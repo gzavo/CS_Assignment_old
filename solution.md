@@ -1,3 +1,5 @@
+**The titles of papers pivotal to our knowledge:**
+
 The Rise of Coccidioides: Forces Against the Dust Devil Unleashed - MCC Van Dyke et al., 2019
 
 
@@ -5,6 +7,8 @@ An analysis of the forces required to drag sheep over various surfaces - JT Harv
 
 
 The neurocognitive effects of alcohol on adolescents and college students - DW Ziegler et al., 2005
+
+***
 
 **A visualisation of the given data:**
 
