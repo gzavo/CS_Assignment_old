@@ -10,3 +10,5 @@
 5. Create one plot from the dataset "istherecorrelation.csv", with DPI=300. The objective is to visualize the data as you see fit. Include the resulting image in the markdown file and write a few lines of interpretation.
 6. Commit and push these two files to your fork.
 7. Create a pull request for me to this (original) repo. (Hint: you can use the "New pull request" button and then do a "compare across forks").
+# [image.pdf](https://github.com/2211064636/CS_Assignment/files/7232279/image.pdf)
+# I analyse the relation between time (year) and OW. And also plot the dots.
