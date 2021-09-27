@@ -1,6 +1,6 @@
 # Assignment L3: Tools for Computational Scientists
-Student name: Mehmet Bahadir Gülhan
-Student number: 14125250
+#### - Student name: Mehmet Bahadir Gülhan
+#### - Student number: 14125250
 ## 1) Titles of Papers
 - The rise of coccidioides: forces against the dust devil unleashed
 - An analysis of the forces required to drag sheep over various surfaces
