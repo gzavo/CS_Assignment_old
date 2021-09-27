@@ -1,5 +1,6 @@
 ## Student Information
 Course: Seminar Intro to CLS
+
 Student number 12298700
 
 ## The title of the following papers pivotal to our knowledge:
