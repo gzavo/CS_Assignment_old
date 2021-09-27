@@ -12,3 +12,5 @@
 
 ## The dataset
 ![The small dataset visualized.](plot.png)
+
+There appears to be a positive correlation between the two quantities over the years, but that obviously does not imply a causal relationship between them.
