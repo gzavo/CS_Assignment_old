@@ -9,3 +9,9 @@ DW Ziegler et al., 2005 Title: "Correlation of continuous cardiac output measure
 ## Visualization
 
 ![alt text](https://github.com/RinaPiggy/CS_Assignment/blob/master/Figure_1.png)
+
+As the amount of WO student increases, the total amount of beer consumed every year also increases. 
+
+Their positive relation was not obvious when the amount of WO student is lower than 245.4.
+
+But it becomes abvious when the number of WO student is larger than 245.4. 
