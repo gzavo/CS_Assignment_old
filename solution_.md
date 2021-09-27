@@ -8,7 +8,7 @@
 - An analysis of the forces required to drag sheep over various surfaces
     - _JT Harvey, Applied Ergonomics, 2002_
 - Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients
-    - DW Ziegler et al., 2005
+    - _DW Ziegler et al., 2005_
 
 ## Plot 
 ![image](plot.jpg)
