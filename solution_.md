@@ -1,7 +1,7 @@
 # Assignment L3: Tools for Computational Scientists
 ## 1) Titles of Papers
-- Title 1
-- Title 2 
-- Title 3
+- The rise of coccidioides: forces against the dust devil unleashed
+- An analysis of the forces required to drag sheep over various surfaces
+- Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients
 ## 2) Plot of istherecorrelation.csv
-![alt text](image.jpg)
+![istherecorrelation.csv data plot](data-plot.jpg)
