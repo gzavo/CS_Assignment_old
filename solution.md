@@ -1,3 +1,7 @@
+## Student Information
+Course: Seminar Intro to CLS
+Student number 12298700
+
 ## The title of the following papers pivotal to our knowledge:
 
 MCC Van Dyke et al., 2019 Title:" The rise of coccidioides: forces against the dust devil unleashed.".
