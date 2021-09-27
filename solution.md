@@ -8,3 +8,4 @@ DW Ziegler et al., 2005 Title: "Correlation of continuous cardiac output measure
 
 ## Visualization
 
+![alt text](https://github.com/RinaPiggy/CS_Assignment/blob/master/Figure_1.png)
