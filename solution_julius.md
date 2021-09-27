@@ -16,7 +16,7 @@
     </ul>
 </ol>
 <h3>Correlation</h3>
-![Students and Beer correlation](consumptionGraph.jpg "Consumption")<br>
+![Students and Beer correlation](/pictures/consumptionGraph.jpg)<br>
 <p>There seems to be a correlation between the beer consumption and the amount<br>
 of university students in the Netherlands. Whether this correlation also<br>
 signals causality cannot be said from this dataset, but I certainly did my<br>
