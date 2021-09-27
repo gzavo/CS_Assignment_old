@@ -6,4 +6,5 @@
 
 
 ![plot](plot.png)
+
 - There is a correlationship between the WO and NL growing beer consumption.
