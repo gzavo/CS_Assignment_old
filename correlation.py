@@ -24,3 +24,7 @@ with open ('istherecorrelation.csv') as f:
     ax2.tick_params(axis='y', labelcolor='blue')
 
     plt.show()
+    fig.savefig('plot_v02.png',
+            format='png',
+            dpi=300,
+            bbox_inches='tight')

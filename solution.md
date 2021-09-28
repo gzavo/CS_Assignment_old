@@ -11,4 +11,6 @@ Correlation of continuous cardiac output measured by a pulmonary artery catheter
 
 # Plot:
 
-![img](plot_v01.png)
+![img](plot_v02.png)
+
+The image shows two data points collected over time: (1) the number of WO students and (2) the amount of beer consumption. Over the course of 2006 - 2018 both show an upward trend. Accordingly, there is some correlation. However, it remains to be seen whether one of these factors has a causal relationship with the other.
