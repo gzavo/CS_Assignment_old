@@ -8,4 +8,4 @@
 
 ![amazing](amazing.png)
 
-*This plot shows some correlation between Dutch beer consumption (pro 1000 helicopters) and something, which is called WO. This does not allow the writer to speculate about any relationships of these two phenomena, hence no conclusions can be driven.*
+*This plot shows some correlation between Dutch beer consumption (pro 1000 helicopters) and something, which is called WO. This does not allow the writer to speculate about any relationships of these two phenomena, hence no conclusions can be drawn.*
